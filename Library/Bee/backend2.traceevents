@@ -1,0 +1,430 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1720715401857820, "dur":45418, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720715401903255, "dur":222, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720715401903528, "dur":440, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720715401904169, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1720715401904291, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1720715401904407, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1720715401904579, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1720715401904664, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1720715401904724, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1720715401904879, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1720715401905260, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1720715401905762, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401905896, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401905952, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401906223, "dur":108, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401906438, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401906551, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401906688, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401906844, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401906931, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401907147, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401907256, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401907356, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401907441, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401907599, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401907859, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401907982, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401908179, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401908390, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401909714, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401910469, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1720715401911517, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1720715401904013, "dur":7789, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720715401911804, "dur":235313, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720715402147118, "dur":218, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720715402147336, "dur":149, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720715402147630, "dur":75, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720715402147744, "dur":2346, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1720715401904504, "dur":7310, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1720715401911818, "dur":16536, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1720715401928374, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/17797989331363849604.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1720715401928461, "dur":523, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1720715401929669, "dur":144, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1720715401929815, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1720715401929924, "dur":501, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1720715401930428, "dur":279, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1720715401930716, "dur":840, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1720715401931567, "dur":673, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1720715401932245, "dur":213, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1720715401932467, "dur":575, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1720715401934119, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\artifacts\\UnityLinkerInputs\\MethodsToPreserve.xml" }}
+,{ "pid":12345, "tid":1, "ts":1720715401934255, "dur":121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\artifacts\\UnityLinkerInputs\\TypesInScenes.xml" }}
+,{ "pid":12345, "tid":1, "ts":1720715401934379, "dur":131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\artifacts\\UnityLinkerInputs\\SerializedTypes.xml" }}
+,{ "pid":12345, "tid":1, "ts":1720715401934514, "dur":303, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\artifacts\\UnityLinkerInputs\\EditorToUnityLinkerData.json" }}
+,{ "pid":12345, "tid":1, "ts":1720715401929016, "dur":6863, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/rmina/Call of Duty/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1720715401935882, "dur":24507, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1720715401974911, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1720715401975153, "dur":277, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1720715401975440, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1720715401975504, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1720715401975643, "dur":3487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1720715401979131, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1720715401979200, "dur":167889, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401904622, "dur":7212, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401911839, "dur":1437, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401913277, "dur":1192, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401914471, "dur":1064, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401916219, "dur":1249, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Xml.XDocument.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401917642, "dur":713, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Threading.Timer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401915536, "dur":3641, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401919178, "dur":9204, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401928388, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1720715401928544, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401928770, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1720715401928887, "dur":548, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401929435, "dur":67, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1720715401931798, "dur":5743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":2, "ts":1720715401938799, "dur":7588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1720715401946482, "dur":3020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1720715401949709, "dur":1503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1720715401951273, "dur":23639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401974914, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975026, "dur":139, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975184, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975258, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975333, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975404, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975470, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975530, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975669, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975737, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975805, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975877, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401975947, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976010, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976077, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976133, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976193, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976249, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976362, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976427, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976536, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976595, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976658, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976719, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976828, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976886, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401976953, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977009, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977077, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977134, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977243, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977299, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977401, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977463, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977560, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977619, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977679, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977746, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977851, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977920, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401977979, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401978038, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401978094, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401978177, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401978259, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401978314, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401978401, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401978538, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401978620, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401978764, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401978851, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1720715401978968, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1720715401979051, "dur":168043, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401904576, "dur":7248, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401911828, "dur":1976, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401913805, "dur":1158, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401915177, "dur":641, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Activation.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401914964, "dur":1695, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401916660, "dur":1051, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401917712, "dur":1424, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401919136, "dur":9318, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401928455, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1720715401928568, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401928685, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1720715401928751, "dur":282, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401929041, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1720715401929107, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401929236, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401929305, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401929372, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401929432, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401931336, "dur":19715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1720715401951130, "dur":23785, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401974916, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975027, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975164, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975264, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975359, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975421, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975492, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975554, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975621, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975678, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975751, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975815, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975880, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975938, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401975995, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976053, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976117, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976226, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976339, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976394, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976454, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976508, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976567, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976620, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976685, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976744, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976804, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976859, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401976918, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977028, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977084, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977207, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977268, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977329, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977381, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977488, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977545, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977606, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977664, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977733, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977818, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401977931, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978000, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978065, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978139, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978250, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978313, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978407, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978466, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978527, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978585, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978656, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978723, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978797, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978855, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978920, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1720715401978987, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1720715401979056, "dur":168030, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401904670, "dur":7176, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401911851, "dur":1179, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401913031, "dur":2085, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401915117, "dur":1039, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401916157, "dur":1724, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401917881, "dur":1396, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401919277, "dur":9096, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401928377, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1720715401928493, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401928636, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1720715401928704, "dur":361, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401929071, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1720715401929196, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401929357, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1720715401929421, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401941023, "dur":492, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401932800, "dur":8844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":4, "ts":1720715401941747, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401941855, "dur":215, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401945363, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401942109, "dur":3356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1720715401945586, "dur":4455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1720715401950159, "dur":90, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401950253, "dur":3616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1720715401953929, "dur":21175, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401975157, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401975331, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401975535, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401975663, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401975769, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401975884, "dur":343, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401976236, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401976430, "dur":292, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401976747, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401976876, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401976944, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401977002, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401977072, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401977131, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401977201, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401977261, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401977411, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401977515, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401977655, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401977762, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401977869, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401977977, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401978101, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401978239, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401978334, "dur":60, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401978396, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401978496, "dur":366, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401978870, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1720715401978954, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1720715401979087, "dur":168005, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401904742, "dur":7114, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401911860, "dur":1296, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401914199, "dur":995, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.20f1\\Editor\\Data\\il2cpp\\build\\deploy\\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401913157, "dur":2213, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401916096, "dur":626, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401915371, "dur":2379, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401917751, "dur":1727, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401919479, "dur":8890, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401928385, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401928586, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401928657, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1720715401928732, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401928843, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1720715401928907, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401929024, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1720715401929111, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401929269, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1720715401929329, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401932299, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401932352, "dur":3556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":5, "ts":1720715401936159, "dur":6063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1720715401944792, "dur":76, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401942407, "dur":2480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1720715401945141, "dur":1908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/level2" }}
+,{ "pid":12345, "tid":5, "ts":1720715401947181, "dur":178, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401947364, "dur":7251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1720715401954724, "dur":20195, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401974920, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975064, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975174, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975267, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975351, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975411, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975477, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975542, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975681, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975774, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975855, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975921, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401975990, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401976048, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401976107, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401976212, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401976283, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401976343, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401976450, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401976600, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401976682, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401976779, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401977003, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401977107, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401977291, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401977401, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401977519, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401977584, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401977651, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401977746, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401977846, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401977929, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401977995, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401978058, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401978245, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401978309, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401978370, "dur":104, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401978476, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401978572, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401978713, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1720715401978933, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1720715401979082, "dur":168009, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720715401904856, "dur":7028, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720715401911890, "dur":1123, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720715401913014, "dur":1257, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720715401914272, "dur":1108, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720715401915381, "dur":1051, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720715401916433, "dur":1043, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720715401917477, "dur":1504, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720715401918981, "dur":9385, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720715401928374, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":6, "ts":1720715401930454, "dur":731, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":6, "ts":1720715401931192, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1720715401931340, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1720715401931856, "dur":581, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720715401932441, "dur":146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720715401932590, "dur":420, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\rmina\\Call of Duty\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1720715401931189, "dur":3092, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1720715401935809, "dur":611, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1720715401937214, "dur":195173, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1720715402145752, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1720715402145719, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1720715402145881, "dur":1171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1720715401904806, "dur":7061, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401911872, "dur":1449, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401913322, "dur":1338, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401914661, "dur":1062, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401915723, "dur":1137, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401916861, "dur":1098, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401917960, "dur":1048, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401919008, "dur":9384, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401928395, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1720715401928491, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401928627, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1720715401928690, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401928792, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1720715401928882, "dur":199, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401929089, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1720715401929157, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401929252, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty.exe" }}
+,{ "pid":12345, "tid":7, "ts":1720715401929316, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401933310, "dur":3303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1720715401936701, "dur":3401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":7, "ts":1720715401940193, "dur":1768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1720715401942112, "dur":1663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1720715401944000, "dur":1476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/level3" }}
+,{ "pid":12345, "tid":7, "ts":1720715401945562, "dur":4895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/level1.resS" }}
+,{ "pid":12345, "tid":7, "ts":1720715401950569, "dur":24347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401974918, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720715401975048, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401975169, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720715401975265, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401975337, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720715401975423, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401975555, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720715401975742, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401975898, "dur":1963, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720715401977862, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978076, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978259, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978349, "dur":67, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978418, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978490, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978555, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978616, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978676, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978740, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978802, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978861, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1720715401978924, "dur":168194, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401904950, "dur":6946, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401911897, "dur":1307, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401913205, "dur":1144, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401914349, "dur":1074, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401915424, "dur":1115, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401916540, "dur":1207, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401917747, "dur":1476, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401919224, "dur":9147, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401928375, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1720715401928566, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401928632, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1720715401928713, "dur":292, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401929019, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1720715401929086, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401929195, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1720715401929268, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401929364, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1720715401929434, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401930979, "dur":4093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":8, "ts":1720715401935859, "dur":42975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Ejecutador/Call of Duty_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1720715401978904, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Ejecutador/Call of Duty_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1720715401978977, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1720715401979061, "dur":168037, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1720715402154281, "dur":2005, "ph":"X", "name": "ProfilerWriteOutput" }
+,

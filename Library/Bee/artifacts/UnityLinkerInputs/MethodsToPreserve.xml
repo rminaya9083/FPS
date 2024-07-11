@@ -1,0 +1,12 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Return">
+			<method name="Boss"/>
+			<method name="LoadMenu"/>
+			<method name="Mundos"/>
+			<method name="Nivel1"/>
+			<method name="Nivel1"/>
+			<method name="Salir"/>
+		</type>
+	</assembly>
+</linker>

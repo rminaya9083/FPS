@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmina\\Call of Duty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|c:\\users\\rmina\\call of duty\\assets\\scripts\\camera\\cameralook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cameralook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|c:\\users\\rmina\\call of duty\\assets\\scripts\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|c:\\users\\rmina\\call of duty\\assets\\scripts\\player\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\world\\bossinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\bossinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\player\\playerinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinteractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\weapon\\weaponlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\weaponlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\weapon\\weaponsway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\weaponsway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\world\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\weapon\\weaponswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\weaponswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\ai\\enemyshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\enemyshoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\world\\healtobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\world\\healtobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\camera\\cameraswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cameraswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|C:\\Users\\rmina\\Call of Duty\\assets\\scripts\\ai\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771D8EE1-7372-5F07-06ED-7ECB4D741587}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraLook.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Camera\\CameraLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraLook.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Camera\\CameraLook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraLook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:22:51.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Return.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Return.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Return.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Return.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Return.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:23:46.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NextLevel.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Player\\NextLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\NextLevel.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Player\\NextLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\NextLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:18:11.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Menu.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Menu.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T23:12:14.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeaponSway.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Weapon\\WeaponSway.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\WeaponSway.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Weapon\\WeaponSway.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\WeaponSway.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T23:10:44.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\World\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\GameManager.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\World\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\GameManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:40:44.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BossInteractions.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\World\\BossInteractions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\BossInteractions.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\World\\BossInteractions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\BossInteractions.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswCIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T23:32:42.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Weapon\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\Bullet.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Weapon\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T23:08:29.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerInteractions.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Player\\PlayerInteractions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInteractions.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Player\\PlayerInteractions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInteractions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:25:35.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealtObject.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\World\\HealtObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\World\\HealtObject.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\World\\HealtObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\World\\HealtObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:32:11.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeaponSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Weapon\\WeaponSwitch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\WeaponSwitch.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Weapon\\WeaponSwitch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\WeaponSwitch.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwDMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:38:23.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:42:07.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyShoot.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\AI\\EnemyShoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\EnemyShoot.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\AI\\EnemyShoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\EnemyShoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:08:51.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeaponLogic.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Weapon\\WeaponLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\WeaponLogic.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Weapon\\WeaponLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\WeaponLogic.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwFIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:35:48.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CameraSwitch.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Camera\\CameraSwitch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraSwitch.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\Camera\\CameraSwitch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraSwitch.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T02:03:12.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyBullet.cs",
+              "DocumentMoniker": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\AI\\EnemyBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\EnemyBullet.cs",
+              "ToolTip": "C:\\Users\\rmina\\Call of Duty\\Assets\\Scripts\\AI\\EnemyBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\EnemyBullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:23:50.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
